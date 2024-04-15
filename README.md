@@ -7,31 +7,25 @@ Frontend: React.js, React Router DOM
 Styling: CSS
 Data Fetching: Axios
 Deployment: Netlify
+
+
 Instructions for Running the Project Locally
 Clone the repository to your local machine:
-
-bash
-Copy code
 git clone <repository_url>
+
 Navigate to the project directory:
-
-bash
-Copy code
 cd tann-trim-online-store
-Install dependencies using npm or yarn:
 
-arduino
-Copy code
+Install dependencies using npm or yarn:
 npm install
 # or
 yarn install
-Start the development server:
 
-sql
-Copy code
+Start the development server:
 npm start
 # or
 yarn start
+
 Open your browser and go to http://localhost:3000 to view the application.
 
 Deployed Site
