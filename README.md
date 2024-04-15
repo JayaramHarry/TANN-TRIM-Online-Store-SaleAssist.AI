@@ -32,7 +32,6 @@ Deployed Site
 The project is deployed on Netlify. You can access it using the following link: TANN TRIM Online Store
 
 Additional Information
-The project fetches product data from the Fake Store API.
-The "No Data Found" page is displayed when there are no products available in a specific category.
+The project fetches product data from the Fake Store API..
 This project uses React Router DOM for client-side routing to navigate between different pages.
 Styling is done using CSS.
